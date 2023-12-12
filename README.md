@@ -99,7 +99,7 @@ Here are some ideas to get you started:
 </p>
 
 <p align="center" >
-<img src="http://github-readme-streak-stats.herokuapp.com?user=sachin2398&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
+<img src="http://github-readme-streak-stats.herokuapp.com?user=shashikantRupin&theme=dark&hide_border=true&date_format=j%20M%5B%20Y%5D&fire=DD2727"  />
 </p>
  
 <p>
