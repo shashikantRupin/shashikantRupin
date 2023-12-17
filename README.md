@@ -48,7 +48,7 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;
 <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="70px">
  ## 👨‍💻CONNECT WITH ME:
-
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://1ashutoshverma.github.io/)
 
 <p align="left">
   <a href="https://github.com/shashikantRupin">
