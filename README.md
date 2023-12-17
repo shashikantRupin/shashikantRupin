@@ -50,11 +50,8 @@ Here are some ideas to get you started:
  ## 👨‍💻CONNECT WITH ME:
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://shashikantRupin.github.io/)
 
-<p align="left">
-  <a href="https://github.com/shashikantRupin">
-    <img align="left" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTqx2RrK8Eje0ohUMNvb--Dl5KJIrb8R1sSJA&usqp=CAU" width="32px"  />
-  </a>
-<a href="https://www.linkedin.com/in/rupin-raj-d98/" target="https://www.linkedin.com/in/rupin-raj-d98/"><img align="center" src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white" alt="" /></a>
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rupin-raj-557940175/)
+
 </p>
 <img src ="https://github.com/shivam-singh-au17/shivam-singh-au17/blob/main/Images/imhd.gif?raw=true" align="right" width="260" height="260" />
 <hr>
