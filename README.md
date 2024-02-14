@@ -104,7 +104,8 @@ Here are some ideas to get you started:
                src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikantRupin&layout=compact&theme=light&hide_border=true"
               alt="top laguges"
               id="github-top-langs" />
- 
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashikantRupin&count_private=true&theme=light)
+
  
 <hr clear="both">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
