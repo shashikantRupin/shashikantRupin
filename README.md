@@ -92,11 +92,12 @@ Here are some ideas to get you started:
   <hr>
 
 
-<p align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashikantRupin&theme=github_dark" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shashikantRupin&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikantRupin&layout=compact"/>
-<img src="https://github-readme-stats.vercel.app/api?username=shashikantRupin&show_icons=true&theme=radical"/>
+<div align="center">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shashikantRupin&theme=github_dark" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shashikantRupin&theme=onedark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&mode=weekly"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikantRupin&layout=compact"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=shashikantRupin&show_icons=true&theme=radical"/>
+</div>
 
              <br/>
  
