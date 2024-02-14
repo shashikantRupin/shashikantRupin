@@ -93,14 +93,19 @@ Here are some ideas to get you started:
 
 
 <p align="center">
-🛠 Current Stats:
-<p>&nbsp;<img align="center" width="90%" src="https://github-readme-stats.vercel.app/api?username=shashikantRupin&show_icons=true&locale=en&theme=tokyonight" alt="shashikantRupin" /></p>
-
-<p><img align="center" width="90%" src="https://github-readme-streak-stats.herokuapp.com?user=shashikantRupin&theme=tokyonight" alt="shashikantRupin" /></p>
-
-<p><img align="center" width="90%"
-src="https://github-readme-stats.vercel.app/api/top-langs?username=shashikantRupin&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="shashikantRupin" /></p>
- <br/>
+<img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>&nbsp;<i><b>🐱My Github stats:</b></i> 
+</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=shashiKantRupin&count_private=true&theme=light" height="150" alt="stats graph"  />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=shashiKantRupin&theme=light&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D" height="150" alt="streak graph"  />
+</div>
+<br>
+<br>
+  <img  className="github-top-langs" id="github-top-langs"
+               src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashiKantRupin&layout=compact&theme=light&hide_border=true"
+              alt="top laguges"
+              id="github-top-langs" />
+             <br/>
  
 <hr clear="both">
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people so if you want to say hi, I'll be happy to meet you more!</b></em> <img src="https://media.giphy.com/media/7j2hfyeVcDtf2/giphy.gif" width="50" />
