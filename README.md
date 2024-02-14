@@ -104,7 +104,7 @@ Here are some ideas to get you started:
                src="https://github-readme-stats.vercel.app/api/top-langs/?username=shashikantRupin&layout=compact&theme=light&hide_border=true"
               alt="top laguges"
               id="github-top-langs" />
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=shashikantRupin&count_private=true&theme=light)
+
 
  
 <hr clear="both">
