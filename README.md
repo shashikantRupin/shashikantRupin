@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
  ## 👨‍💻ABOUT ME:
 - 🧠 Callme: ***He/His*** or ***TeamWorker*** 😊 <br>
-- 🤔 I use daily ```.js```,``` .css```, ```.html```
+- 🤔 I use daily react```redux```mongodb```js```css```html```
 - 🛠  I’m currently learning about **Deep Learning!😅**
 - 🌱 I’m looking to collaborate on: **Contribute more to Open Source projects.**
 - ⚡ I’m looking for help with anything **I am currently learning! 😅**.
